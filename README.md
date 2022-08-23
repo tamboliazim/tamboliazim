@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tamboliazim
-- 👀 I’m interested in AWS, Cloud technology, DevOps
-- 🌱 I’m currently learning DevOps 
+- 👀 I’m passionate in AWS, Cloud technology, DevOps
+- 🌱 I’m exploring more in DevOps 
 - 💞️ I’m looking to collaborate on AWS, DevOps, Data, Cloud
 - 📫 How to reach me- tamboliazim054@gmail.com , 9657419965
 
